@@ -1,0 +1,627 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root name="eBay">
+  <trustpilot.de name="trustpilot.de">
+    <kategoria name="trustpilot.de">
+      <podkategoria name="Aus- and Weiterbildung" strona="https://de.trustpilot.com/categories/education_training?page={0}"/>
+      <podkategoria name="Bau and Fertigung" strona="https://de.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+      <podkategoria name="Beauty and Wohlbefinden" strona="https://de.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+      <podkategoria name="Einkaufen and Mode" strona="https://de.trustpilot.com/categories/shopping_fashion?page={0}"/>
+      <podkategoria name="Elektronik and Technologie" strona="https://de.trustpilot.com/categories/electronics_technology?page={0}"/>
+      <podkategoria name="Fahrzeug and Transport" strona="https://de.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+      <podkategoria name="Geld and Versicherung" strona="https://de.trustpilot.com/categories/money_insurance?page={0}"/>
+      <podkategoria name="Gesundheit and Medizin" strona="https://de.trustpilot.com/categories/health_medical?page={0}"/>
+      <podkategoria name="Haus and Garten" strona="https://de.trustpilot.com/categories/home_garden?page={0}"/>
+      <podkategoria name="Hobby and Kunst" strona="https://de.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+      <podkategoria name="Häusliche Dienstleistungen" strona="https://de.trustpilot.com/categories/home_services?page={0}"/>
+      <podkategoria name="Lebensmittel, Getränke and Tabakwaren" strona="https://de.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+      <podkategoria name="Medien and Verlag" strona="https://de.trustpilot.com/categories/media_publishing?page={0}"/>
+      <podkategoria name="Rechtsdienstleistungen and Verwaltung" strona="https://de.trustpilot.com/categories/legal_services_government?page={0}"/>
+      <podkategoria name="Reise and Urlaub" strona="https://de.trustpilot.com/categories/travel_vacation?page={0}"/>
+      <podkategoria name="Restaurants and Bars" strona="https://de.trustpilot.com/categories/restaurants_bars?page={0}"/>
+      <podkategoria name="Sport" strona="https://de.trustpilot.com/categories/sports?page={0}"/>
+      <podkategoria name="Tiere" strona="https://de.trustpilot.com/categories/animals_pets?page={0}"/>
+      <podkategoria name="Unternehmensdienstleistungen" strona="https://de.trustpilot.com/categories/business_services?page={0}"/>
+      <podkategoria name="Veranstaltungen and Unterhaltung" strona="https://de.trustpilot.com/categories/events_entertainment?page={0}"/>
+      <podkategoria name="Wohnungswirtschaftsunternehmen" strona="https://de.trustpilot.com/categories/housing_utility_company?page={0}"/>
+      <podkategoria name="Öffentliche and Lokale Dienstleistungen" strona="https://de.trustpilot.com/categories/public_local_services?page={0}"/>
+    </kategoria>
+  </trustpilot.de>
+  <trustpilot.uk name="trustpilot.uk">
+	<kategoria name="trustpilot.uk">
+	<podkategoria name="Animals and Pets" strona="https://uk.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://uk.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://uk.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://uk.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://uk.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://uk.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://uk.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://uk.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://uk.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://uk.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://uk.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://uk.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://uk.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://uk.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://uk.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://uk.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://uk.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://uk.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://uk.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://uk.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://uk.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://uk.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.uk>
+    <trustpilot.fr name="trustpilot.fr">
+	<kategoria name="trustpilot.fr">
+	<podkategoria name="Animals and Pets" strona="https://fr.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://fr.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://fr.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://fr.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://fr.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://fr.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://fr.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://fr.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://fr.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://fr.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://fr.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://fr.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://fr.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://fr.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://fr.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://fr.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://fr.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://fr.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://fr.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://fr.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://fr.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://fr.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.fr>
+      <trustpilot.dk name="trustpilot.dk">
+	<kategoria name="trustpilot.dk">
+	<podkategoria name="Animals and Pets" strona="https://dk.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://dk.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://dk.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://dk.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://dk.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://dk.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://dk.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://dk.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://dk.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://dk.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://dk.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://dk.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://dk.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://dk.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://dk.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://dk.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://dk.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://dk.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://dk.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://dk.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://dk.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://dk.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.dk>
+      <trustpilot.at name="trustpilot.at">
+	<kategoria name="trustpilot.at">
+	<podkategoria name="Animals and Pets" strona="https://at.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://at.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://at.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://at.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://at.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://at.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://at.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://at.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://at.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://at.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://at.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://at.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://at.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://at.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://at.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://at.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://at.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://at.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://at.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://at.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://at.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://at.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.at>
+      <trustpilot.ch name="trustpilot.ch">
+	<kategoria name="trustpilot.ch">
+	<podkategoria name="Animals and Pets" strona="https://ch.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://ch.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://ch.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://ch.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://ch.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://ch.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://ch.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://ch.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://ch.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://ch.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://ch.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://ch.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://ch.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://ch.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://ch.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://ch.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://ch.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://ch.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://ch.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://ch.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://ch.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://ch.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.ch>
+      <trustpilot.au name="trustpilot.au">
+	<kategoria name="trustpilot.au">
+	<podkategoria name="Animals and Pets" strona="https://au.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://au.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://au.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://au.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://au.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://au.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://au.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://au.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://au.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://au.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://au.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://au.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://au.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://au.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://au.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://au.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://au.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://au.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://au.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://au.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://au.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://au.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.au>
+      <trustpilot.ca name="trustpilot.ca">
+	<kategoria name="trustpilot.ca">
+	<podkategoria name="Animals and Pets" strona="https://ca.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://ca.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://ca.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://ca.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://ca.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://ca.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://ca.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://ca.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://ca.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://ca.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://ca.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://ca.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://ca.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://ca.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://ca.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://ca.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://ca.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://ca.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://ca.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://ca.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://ca.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://ca.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.ca>
+      <trustpilot.ie name="trustpilot.ie">
+	<kategoria name="trustpilot.ie">
+	<podkategoria name="Animals and Pets" strona="https://ie.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://ie.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://ie.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://ie.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://ie.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://ie.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://ie.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://ie.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://ie.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://ie.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://ie.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://ie.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://ie.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://ie.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://ie.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://ie.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://ie.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://ie.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://ie.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://ie.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://ie.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://ie.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.ie>
+      <trustpilot.usa name="trustpilot.usa">
+	<kategoria name="trustpilot.usa">
+	<podkategoria name="Animals and Pets" strona="https://trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://nz.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.usa>
+      <trustpilot.nz name="trustpilot.nz">
+	<kategoria name="trustpilot.nz">
+	<podkategoria name="Animals and Pets" strona="https://nz.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://nz.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://nz.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://nz.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://nz.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://nz.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://nz.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://nz.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://nz.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://nz.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://nz.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://nz.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://nz.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://nz.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://nz.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://nz.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://nz.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://nz.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://nz.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://nz.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://nz.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://nz.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.nz>
+      <trustpilot.es name="trustpilot.es">
+	<kategoria name="trustpilot.es">
+	<podkategoria name="Animals and Pets" strona="https://es.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://es.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://es.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://es.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://es.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://es.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://es.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://es.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://es.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://es.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://es.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://es.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://es.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://es.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://es.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://es.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://es.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://es.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://es.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://es.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://es.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://es.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.es>
+      <trustpilot.fi name="trustpilot.fi">
+	<kategoria name="trustpilot.fi">
+	<podkategoria name="Animals and Pets" strona="https://fi.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://fi.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://fi.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://fi.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://fi.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://fi.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://fi.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://fi.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://fi.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://fi.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://fi.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://fi.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://fi.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://fi.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://fi.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://fi.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://fi.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://fi.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://fi.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://fi.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://fi.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://fi.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.fi>
+      <trustpilot.fr-be name="trustpilot.fr-be">
+	<kategoria name="trustpilot.fr-be">
+	<podkategoria name="Animals and Pets" strona="https://fr-be.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://fr-be.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://fr-be.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://fr-be.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://fr-be.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://fr-be.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://fr-be.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://fr-be.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://fr-be.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://fr-be.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://fr-be.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://fr-be.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://fr-be.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://fr-be.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://fr-be.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://fr-be.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://fr-be.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://fr-be.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://fr-be.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://fr-be.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://fr-be.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://fr-be.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.fr-be>
+      <trustpilot.nl-be name="trustpilot.nl-be">
+	<kategoria name="trustpilot.nl-be">
+	<podkategoria name="Animals and Pets" strona="https://nl-be.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://nl-be.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://nl-be.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://nl-be.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://nl-be.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://nl-be.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://nl-be.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://nl-be.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://nl-be.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://nl-be.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://nl-be.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://nl-be.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://nl-be.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://nl-be.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://nl-be.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://nl-be.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://nl-be.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://nl-be.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://nl-be.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://nl-be.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://nl-be.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://nl-be.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.nl-be>
+      <trustpilot.it name="trustpilot.it">
+	<kategoria name="trustpilot.it">
+	<podkategoria name="Animals and Pets" strona="https://it.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://it.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://it.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://it.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://it.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://it.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://it.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://it.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://it.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://it.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://it.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://it.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://it.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://it.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://it.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://it.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://it.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://it.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://it.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://it.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://it.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://it.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.it>
+      <trustpilot.jp name="trustpilot.jp">
+	<kategoria name="trustpilot.jp">
+	<podkategoria name="Animals and Pets" strona="https://jp.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://jp.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://jp.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://jp.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://jp.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://jp.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://jp.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://jp.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://jp.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://jp.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://jp.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://jp.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://jp.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://jp.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://jp.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://jp.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://jp.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://jp.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://jp.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://jp.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://jp.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://jp.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.jp>
+      <trustpilot.no name="trustpilot.no">
+	<kategoria name="trustpilot.no">
+	<podkategoria name="Animals and Pets" strona="https://no.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://no.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://no.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://no.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://no.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://no.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://no.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://no.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://no.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://no.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://no.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://no.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://no.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://no.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://no.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://no.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://no.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://no.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://no.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://no.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://no.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://no.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.no>
+    <trustpilot.nl name="trustpilot.nl">
+	<kategoria name="trustpilot.nl">
+	<podkategoria name="Animals and Pets" strona="https://nl.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://nl.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://nl.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://nl.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://nl.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://nl.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://nl.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://nl.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://nl.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://nl.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://nl.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://nl.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://nl.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://nl.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://nl.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://nl.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://nl.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://nl.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://nl.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://nl.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://nl.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://nl.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.nl>
+      <trustpilot.pl name="trustpilot.pl">
+	<kategoria name="trustpilot.pl">
+	<podkategoria name="Animals and Pets" strona="https://pl.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://pl.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://pl.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://pl.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://pl.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://pl.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://pl.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://pl.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://pl.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://pl.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://pl.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://pl.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://pl.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://pl.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://pl.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://pl.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://pl.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://pl.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://pl.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://pl.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://pl.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://pl.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.pl>
+      <trustpilot.br name="trustpilot.br">
+	<kategoria name="trustpilot.br">
+	<podkategoria name="Animals and Pets" strona="https://br.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://br.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://br.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://br.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://br.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://br.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://br.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://br.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://br.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://br.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://br.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://br.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://br.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://br.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://br.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://br.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://br.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://br.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://br.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://br.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://br.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://br.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.br>
+   <trustpilot.pt name="trustpilot.pt">
+	<kategoria name="trustpilot.pt">
+	<podkategoria name="Animals and Pets" strona="https://pt.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://pt.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://pt.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://pt.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://pt.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://pt.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://pt.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://pt.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://pt.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://pt.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://pt.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://pt.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://pt.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://pt.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://pt.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://pt.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://pt.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://pt.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://pt.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://pt.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://pt.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://pt.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.pt>
+      <trustpilot.ru name="trustpilot.ru">
+	<kategoria name="trustpilot.ru">
+	<podkategoria name="Animals and Pets" strona="https://ru.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://ru.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://ru.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://ru.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://ru.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://ru.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://ru.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://ru.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://ru.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://ru.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://ru.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://ru.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://ru.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://ru.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://ru.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://ru.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://ru.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://ru.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://ru.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://ru.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://ru.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://ru.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.ru>
+      <trustpilot.se name="trustpilot.se">
+	<kategoria name="trustpilot.se">
+	<podkategoria name="Animals and Pets" strona="https://se.trustpilot.com/categories/animals_pets?page={0}"/>
+	<podkategoria name="Beauty and Well-being" strona="https://se.trustpilot.com/categories/beauty_wellbeing?page={0}"/>
+	<podkategoria name="Business Services" strona="https://se.trustpilot.com/categories/business_services?page={0}"/>
+	<podkategoria name="Construction and Manufacturing" strona="https://se.trustpilot.com/categories/construction_manufactoring?page={0}"/>
+	<podkategoria name="Education and Training" strona="https://se.trustpilot.com/categories/education_training?page={0}"/>
+	<podkategoria name="Electronics and Technology" strona="https://se.trustpilot.com/categories/electronics_technology?page={0}"/>
+	<podkategoria name="Events and Entertainment" strona="https://se.trustpilot.com/categories/events_entertainment?page={0}"/>
+	<podkategoria name="Food, Beverages and Tobacco" strona="https://se.trustpilot.com/categories/food_beverages_tobacco?page={0}"/>
+	<podkategoria name="Health and Medical" strona="https://se.trustpilot.com/categories/health_medical?page={0}"/>
+	<podkategoria name="Hobbies and Crafts" strona="https://se.trustpilot.com/categories/hobbies_crafts?page={0}"/>
+	<podkategoria name="Home and Garden" strona="https://se.trustpilot.com/categories/home_garden?page={0}"/>
+	<podkategoria name="Home Services" strona="https://se.trustpilot.com/categories/home_services?page={0}"/>
+	<podkategoria name="Legal Services and Government" strona="https://se.trustpilot.com/categories/legal_services_government?page={0}"/>
+	<podkategoria name="Media and Publishing" strona="https://se.trustpilot.com/categories/media_publishing?page={0}"/>
+	<podkategoria name="Money and Insurance" strona="https://se.trustpilot.com/categories/money_insurance?page={0}"/>
+	<podkategoria name="Public and Local Services" strona="https://se.trustpilot.com/categories/public_local_services?page={0}"/>
+	<podkategoria name="Restaurants and Bars" strona="https://se.trustpilot.com/categories/restaurants_bars?page={0}"/>
+	<podkategoria name="Shopping and Fashion" strona="https://se.trustpilot.com/categories/shopping_fashion?page={0}"/>
+	<podkategoria name="Sports" strona="https://se.trustpilot.com/categories/sports?page={0}"/>
+	<podkategoria name="Travel and Vacation" strona="https://se.trustpilot.com/categories/travel_vacation?page={0}"/>
+	<podkategoria name="Housing utility company" strona="https://se.trustpilot.com/categories/housing_utility_company?page={0}"/>
+	<podkategoria name="Vehicles and Transportation" strona="https://se.trustpilot.com/categories/vehicles_transportation?page={0}"/>
+	</kategoria>
+  </trustpilot.se>
+</root>
